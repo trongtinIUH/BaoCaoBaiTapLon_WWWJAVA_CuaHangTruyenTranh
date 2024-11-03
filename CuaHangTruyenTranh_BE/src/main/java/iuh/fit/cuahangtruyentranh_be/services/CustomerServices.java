@@ -1,4 +1,4 @@
-package iuh.fit.cuahangtruyentranh_be.services.impl;
+package iuh.fit.cuahangtruyentranh_be.services;
 
 import iuh.fit.cuahangtruyentranh_be.dtos.CustomerDTO;
 

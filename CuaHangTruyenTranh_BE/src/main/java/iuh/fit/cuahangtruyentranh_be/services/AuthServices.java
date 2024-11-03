@@ -1,7 +1,8 @@
-package iuh.fit.cuahangtruyentranh_be.services.impl;
+package iuh.fit.cuahangtruyentranh_be.services;
 
 import iuh.fit.cuahangtruyentranh_be.enums.Role;
 import iuh.fit.cuahangtruyentranh_be.models.Customer;
+
 
 public interface AuthServices {
     Customer login(String email, String password);
